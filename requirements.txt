@@ -1,0 +1,7 @@
+pandas>=1.5.0,<3.0
+numpy
+pyyaml
+tables
+matplotlib
+openpyxl>=3.0.10
+pytest
